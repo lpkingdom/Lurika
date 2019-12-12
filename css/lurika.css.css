@@ -1,0 +1,65 @@
+body{
+	margin: 20px;
+	font-family: 'Cedarville Cursive', cursive;
+	font-family: 'Indie Flower', cursive;
+	font-size: 20px;
+	line-height: 25px;
+}
+header{
+	background-color: purple;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+h1, h2{
+	font-family: 'Cedarville Cursive', cursive;
+	font-family: 'Indie Flower', cursive;
+	font-size: 40px;
+}
+
+header h1{
+	color: white;
+	font-family: 'Cedarville Cursive', cursive;
+	font-family: 'Indie Flower', cursive;
+	font-size: 40px;
+
+}
+header img{
+	border-radius: 180px;
+	width: 350px;
+	border: 15px solid white;
+}
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 25px;
+}
+main img{
+	max-width: 100%;
+}
+h2{
+	font-size: 35px;
+	color: purple;
+	margin: 40px 0 20px;
+}
+a{
+	color: purple;
+}
+a:hover{
+	color: red;
+}
+footer{
+	background-color: purple;
+	text-align: center;
+	color: white;
+	padding: 50px;
+}
+footer p{
+	margin: 0;
+}
+p.caption{
+	color: lightgrey;
+	font-style: italic;
+	margin-top: 0;
+
+}
